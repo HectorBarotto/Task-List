@@ -1,4 +1,5 @@
 import {Task} from "./Task"
+//array que emula una base de datos
 export const TASKS: Task[] = [
     {
         id: 1,
@@ -8,8 +9,8 @@ export const TASKS: Task[] = [
     },
     {
         id: 2,
-        text: 'Terminar primer modulo de Angular',
-        day: 'Agosto 5 a las 12:00',
+        text: 'Hacer las compras para la cena',
+        day: 'Agosto 5 a las 17:00',
         reminder: true
     },
     {
