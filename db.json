@@ -1,0 +1,51 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Terminar primer modulo de Angular",
+      "day": "Agosto 5 a las 12:00",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Hacer las compras para la cena",
+      "day": "Agosto 5 a las 17:00",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Investigar sobre Bootstrap",
+      "day": "Agosto 5 a las 19:00",
+      "reminder": false
+    },
+    {
+      "id": 4,
+      "text": "Leer mi libro favorito",
+      "day": "Agosto 5 a las 21:00",
+      "reminder": true
+    },
+    {
+      "id": 5,
+      "text": "Ir al correo",
+      "day": "Agosto 6 a las 8:00",
+      "reminder": false
+    }
+  ]
+}
